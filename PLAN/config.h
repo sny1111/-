@@ -10,6 +10,8 @@
 
 #define GAME_RES_PATH "./plane.rcc" //rccÂ·Ïß
 #define GAME_ICON ":/res/app.ico"//Í¼±ê
+
+
 #define MAP_PATH ":/res/img_bg_level_1.jpg"//±³¾°
 #define HERO ":/res/hero2.png"
 #define MAP_PAT ":/res/img_bg_level_2.jpg"//±³¾°
