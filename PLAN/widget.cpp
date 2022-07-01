@@ -49,7 +49,7 @@ Widget::Widget(QWidget *parent)
  //设置图标资源
     setWindowIcon(QIcon(GAME_ICON));
 //设置背景
-   setStyleSheet("border-image: url(:/res/img_bg_level_1.jpg);");
+  setStyleSheet("border-image:url(:/res/img_bg_level_1.jpg);");
 
 }
 

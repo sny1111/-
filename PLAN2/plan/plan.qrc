@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>plan/app.ico</file>
+        <file>plan/bg.wav</file>
+        <file>plan/bomb.wav</file>
+        <file>plan/bomb-1.png</file>
+        <file>plan/bomb-2.png</file>
+        <file>plan/bomb-3.png</file>
+        <file>plan/bomb-4.png</file>
+        <file>plan/bomb-5.png</file>
+        <file>plan/bomb-6.png</file>
+        <file>plan/bomb-7.png</file>
+        <file>plan/bullet_1.png</file>
+        <file>plan/bullet_2.png</file>
+        <file>plan/bullet_3.png</file>
+        <file>plan/bullet_4.png</file>
+        <file>plan/bullet_5.png</file>
+        <file>plan/bullet_6.png</file>
+        <file>plan/bullet_7.png</file>
+        <file>plan/bullet_8.png</file>
+        <file>plan/bullet_9.png</file>
+        <file>plan/bullet_10.png</file>
+        <file>plan/bullet_11.png</file>
+        <file>plan/bullet_12.png</file>
+        <file>plan/bullet_13.png</file>
+        <file>plan/bullet_14.png</file>
+        <file>plan/game.ico</file>
+        <file>plan/hero.png</file>
+        <file>plan/hero_bullet_7.png</file>
+        <file>plan/hero2.png</file>
+        <file>plan/img_bg_level_1.jpg</file>
+        <file>plan/img_bg_level_2.jpg</file>
+        <file>plan/img_bg_level_3.jpg</file>
+        <file>plan/img_bg_level_4.jpg</file>
+        <file>plan/img_bg_level_5.jpg</file>
+        <file>plan/img-plane_1.png</file>
+        <file>plan/img-plane_2.png</file>
+        <file>plan/img-plane_3.png</file>
+        <file>plan/img-plane_4.png</file>
+        <file>plan/img-plane_5.png</file>
+        <file>plan/img-plane_6.png</file>
+        <file>plan/img-plane_7.png</file>
+    </qresource>
+</RCC>
