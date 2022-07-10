@@ -17,6 +17,7 @@ public:
     int hero_y;
 
     QPixmap m_hero;
+
     QRect m_Rect;
     //µ¯Ï»
 
